@@ -3,6 +3,6 @@
 
 <p>Welcome Here! </br> I'm Karun, A Developer From <img src="https://cdn-icons-png.flaticon.com/512/197/197419.png" width="13"/> India
 
-<p>I Speak Hindi, English And A Bit Of Dogri (My Local Language) <br> I Love To Code, Built Projects And Solve Some Problems In My Free Time. </br>
+<p>I Speak Hindi, English And A Bit Of Dogri (My Local Language) <br> I Love To Code, Build Awesome Projects/Stuff And Solve Some Problems In My Free Time. </br>
 
 <p> My READEME.md Is Still Under Development </p>
