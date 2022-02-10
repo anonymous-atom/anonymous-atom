@@ -6,4 +6,4 @@ I'm Karun Sharma</h1>
 
 <p>I Speak Hindi, English And A Bit Of Dogri (My Local Language) <br> I Love To Code, Build Awesome Projects/Stuff And Solve Some Problems In My Free Time. </br>
 
-<p> My READEME.md Is Still Under Development </p>
+<p> My README.md Is Still Under Development </p>
